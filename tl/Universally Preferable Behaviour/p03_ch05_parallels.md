@@ -1,6 +1,9 @@
 ## Parallels
 
 Before the Scientific Revolution, it was considered inconceivable that the natural world could sustain itself without a conscious and “moral” entity at its centre. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Bago ang scientifikong rebolusyon, it ay itinituring na hindi maipapahayag na ang naturang mundo ay pagtibayin ang sarili na walang malinaw at "moral" na entidad sa sentro nito. Ang sun rose ay nag-teail ng mga chain sa isang higit karaniwang karwahe ; ang buwan ay maginaw at nag iisamg kapatid sa araw. 
+
+
 
 The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
 
@@ -72,4 +75,4 @@ That is why the delineation of a rational framework for ethics is so essential.
 
 What we believe is what we become.
 
-If we believe lies, we shall become slaves.
+If we believe lies, we shall become slaves.1
