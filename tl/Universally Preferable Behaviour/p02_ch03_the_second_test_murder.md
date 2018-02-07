@@ -1,11 +1,14 @@
 ## The Second Test: Murder
-
+## Ang Pangalawang Pagsubok : Pagpatay
 Let us now test the UPB framework against moral propositions regarding *murder*, which here is defined as killing intentionally and with premeditation, not in self-defence.
+Subukan na natin ngayon ang UPB framework kontra sa mga moral na proposisyon tungkol sa "pagpatay", kung alin dito ang tinukoy ang sinadyang pagpatay at premiditasyon, hindi sa sariling depensa.
 
 Since we spent so much time dissecting the question of rape – and since many of the same arguments will apply here – this analysis can be much briefer.
+Sapangkat ginugol natin ang maraming oras sa pag-disect ng mga katanungan sa panggagahasa - at sapangkat ay marami mga kaparehong argumento ay mai-apply dito - itong mga pagsusuri ay maaring kaunti at madaling maintindhan.
 
 Let us return to our two moral guinea pigs sitting in a room – we’ll call them Bob and Doug.
 
+Bumalik tayo sa ating dalawang 
 If murder is morally good, then clearly *refraining* from murder is immoral. Thus the only chance that Bob and Doug have to be moral is in the instant that they simultaneously murder each other. Physically, this is impossible of course – if they both stand and grip each other’s throats, they will never succumb to strangulation at exactly the same moment. If Bob dies first, his grip on Doug’s throat will loosen, thus condemning Doug to the status of *immorality* until such time as he can find another victim. Because Bob dies first – and thus cannot continue to try murdering Doug – Bob’s death renders him more immoral than Doug’s murder.
 
 Intuitively, we fully recognise the insanity of the moral proposition that murder is good. Logically, we know that the proposition is incorrect because if it is true, it is impossible for two men in a room to both be moral at the same time. Morality, like health, cannot be considered a mere “snapshot,” but must be a process, or a continuum. The UPB framework confirms that Bob cannot be “evil” *while* he is strangling Doug, and then achieve the pinnacle of moral virtue the moment that he kills Doug – and then revert immediately back to a state of evil. Moral propositions must be universal, and independent of time and place. The proposition that murder is moral fails this requirement at every level, and so is not valid.
